@@ -1,3 +1,4 @@
-a gitpod demo
+# A Gitpod Demo
 
-Open in Gitpod to Run on the Cloud: https://gitpod.io/#https://github.com/nickdelgrosso/demo
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nickdelgrosso/demo)
+
