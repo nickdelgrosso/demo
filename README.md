@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-pip install matplotlib
+bash install_everything.sh
 ```
 
 
