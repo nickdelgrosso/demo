@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
 
-plt.plot([1, 2, 8, 4, 5, 4, 3])
+data = [1, 2, 8, 4, 5, 4, 3]
+plt.plot(data)
 plt.savefig("myplot.png")
